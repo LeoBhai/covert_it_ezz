@@ -35,8 +35,6 @@ Integration with external tools like FFmpeg
 
 System-level command execution in Python
 
-Live deployment with build scripting (apt + bash)
-
 Real-world utility implementation
 
 ⚠️ Disclaimer
