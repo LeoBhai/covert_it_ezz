@@ -26,7 +26,6 @@ It is lightweight, fast, and deployable even on free-tier services — ideal for
 | Downloader    | [`yt-dlp`](https://github.com/yt-dlp/yt-dlp) (YouTube downloader) |
 | Audio Engine  | [FFmpeg](https://ffmpeg.org/) (audio conversion) |
 | Server        | Gunicorn (for production WSGI) |
-| Deployment    | [Render.com](https://render.com) (Free Tier) |
 
 ---
 
